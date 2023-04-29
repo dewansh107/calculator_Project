@@ -1,0 +1,30 @@
+.text-center{
+    text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+   display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row input{
+    height: 30px;
+    padding:10px 0;
+    font-size: 20px;
+    margin: 0px;
+    padding: 6px 38px;
+    border: 2px solid;
+    border-radius: 5px;
+}
